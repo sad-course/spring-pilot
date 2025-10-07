@@ -19,6 +19,16 @@ mvn spring-boot:run
 
 Test the endpoints that says hello!
 
+The body content is returned like:
+
+```
+{
+    "id":number,
+    "content": "Text here"
+}
+```
+
+
 http://localhost:8080/hello
 
 and one for says hello for your name
