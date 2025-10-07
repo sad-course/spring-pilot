@@ -1,6 +1,6 @@
-package br.com.amisahdev.spring_pilot.api.controllers;
+package br.com.amisahdev.spring_pilot.api.hello.controllers;
 
-import br.com.amisahdev.spring_pilot.api.Hello;
+import br.com.amisahdev.spring_pilot.api.hello.Hello;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.concurrent.atomic.AtomicLong;
